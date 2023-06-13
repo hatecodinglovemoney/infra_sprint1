@@ -1,0 +1,5 @@
+IP: 84.201.161.108;
+name_taski: https://taski-project.hopto.org;
+name_kittygram: https://kittygram-project.hopto.org;
+login: admin1;
+password: adminkitty; 
