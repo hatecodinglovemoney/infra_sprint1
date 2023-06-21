@@ -162,4 +162,4 @@ yarn-error.log*
 node_modules
 **/node_modules
 node_modules/
-/static_backend
+static_backend/
